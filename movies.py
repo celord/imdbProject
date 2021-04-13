@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlencode
 
 
-class Movies:
+class Movie:
 
     def __init__(self):
 
