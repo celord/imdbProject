@@ -1,5 +1,9 @@
 # imdbProject
 Downloads and parses top 1000 movies from IMDB to gather and search movie info.
+## Requeriments:
+
+1. Intenet connection
+2. ipython
 
 # how to run:
 
